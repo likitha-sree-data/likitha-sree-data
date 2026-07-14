@@ -25,12 +25,14 @@ Building open-source pipelines and ML tools across climate, healthcare, and soci
 ---
 
 ### Stack
+
 Pipeline      dbt · Apache Airflow · AWS Glue · AWS Lambda
 Warehouses    Snowflake · Amazon Redshift · DuckDB
 Languages     Python · SQL · R · Bash
 ML & AI       Scikit-learn · TensorFlow · NLP · GenAI/LLM
 Viz           Streamlit · Tableau · Power BI · Plotly
 Domain        Verra MRV · HIPAA governance · Blue carbon · ESG 
+
 ---
 
 ### Background
